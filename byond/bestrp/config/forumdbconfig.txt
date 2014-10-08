@@ -1,0 +1,19 @@
+# This configuration file is for the forum database, if you need to set up
+# population, death, etc. tracking see 'dbconfig.txt'
+# The login credentials for this will likely differ from those in dbconfig.txt!
+
+# Server the MySQL database can be found at
+# Examples: localhost, 200.135.5.43, www.mysqldb.com, etc.
+#ADDRESS 11.38.2.3
+
+# MySQL server port (default is 3306)
+#PORT 3306
+
+# Database the forum data may be found in
+#DATABASE bestrp66_ForumsMain
+
+# Username/Login used to access the database
+#LOGIN bestrp66_purlek
+
+# Password used to access the database
+#PASSWORD Qpalzm123

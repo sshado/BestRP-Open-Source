@@ -1,0 +1,7 @@
+abbyriley: Abby Riley: /obj/item/clothing/gloves/fluff/ashley_rifler_1, /obj/item/clothing/head/hairflower
+darksword4: Dagon Blade: /obj/item/weapon/card/id/fluff/blueshield
+diabl0shadow: Plague Doctor: /obj/item/clothing/head/plaguedoctorhat, /obj/item/clothing/suit/bio_suit/plaguedoctorsuit, /obj/item/clothing/mask/gas/plaguedoctor, /obj/item/weapon/card/id/fluff/diablo
+necaladun: Novus Lem: /obj/item/fluff/ethan_way_1, /obj/item/clothing/under/rank/centcom/captain, /obj/item/clothing/glasses/fluff/jensen
+malkaz: Malkz Malkav: /obj/item/clothing/tie/fluff/altair_locket
+majesticapollo: Gabrielle Johnson: /obj/item/fluff/david_fanning_1
+abbyriley: Nicole Moon: /obj/item/clothing/gloves/fluff/ashley_rifler_1, /obj/item/weapon/card/id/fluff/abby

@@ -1,0 +1,11 @@
+#sh compatible environment settings (comment out to dissable)
+export BYOND_SYSTEM=/home/purlek/byond
+export PATH=/home/purlek/byond/bin:$PATH
+export LD_LIBRARY_PATH=/home/purlek/byond/bin:$LD_LIBRARY_PATH
+export MANPATH=/home/purlek/byond/man:$MANPATH
+
+#csh compatible environment settings (uncomment to enable)
+#setenv BYOND_SYSTEM /home/purlek/byond
+#setenv PATH /home/purlek/byond/bin:$PATH
+#setenv MANPATH /home/purlek/byond/man:$MANPATH
+#setenv LD_LIBRARY_PATH /home/purlek/byond/bin:$LD_LIBRARY_PATH
